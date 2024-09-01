@@ -1,5 +1,25 @@
-d 'DEA': Data envelopment analysis
+d 'robit': Robit regression for binary outcomes Use robit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f robit.ado
+f robit.sthlp
+f robit1.ado
+f robit1.sthlp
+f robit10.ado
+f robit10.sthlp
+f robit2.ado
+f robit2.sthlp
+f robit3.ado
+f robit3.sthlp
+f robit4.ado
+f robit4.sthlp
+f robit5.ado
+f robit5.sthlp
+f robit6.ado
+f robit6.sthlp
+f robit7.ado
+f robit7.sthlp
+f robit8.ado
+f robit8.sthlp
+f robit9.ado
+f robit9.sthlp
+f xlink.sthlp

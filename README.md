@@ -1,6 +1,8 @@
 # robit
 Robit regression for binary outcomes Use robit With STATA 18
 
+https://www.youtube.com/watch?v=sQiI-jGBHV4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
